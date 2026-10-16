@@ -1,4 +1,6 @@
+
 streamlit
+streamlit-autorefresh
 numpy
 pandas
 scikit-learn
